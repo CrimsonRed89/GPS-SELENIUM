@@ -6,4 +6,5 @@ This project automates the process of retrieving location-based information, suc
 Automated current location retrieval
 Automated directions between locations
 
-## Future updates: Restaurant, hotel, and facility data extraction
+## Future updates: 
+Restaurant, hotel, and facility data extraction
