@@ -7,4 +7,4 @@ Automated current location retrieval
 Automated directions between locations
 
 ## Future updates: 
-Restaurant, hotel, and facility data extraction
+Restaurant, hotel, and facility data extraction 
